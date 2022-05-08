@@ -32,3 +32,4 @@ Village Bomb
 - 9-65 yaş arası kullanıcılar
 
 ## Product Backlog URL
+https://miro.com/app/board/uXjVO2lM8hs=/?share_link_id=531225080181
