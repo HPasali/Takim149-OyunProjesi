@@ -44,7 +44,8 @@ Village Bomb
    - Oyun tasarımı için ayrılan saatin arttırılmasına karar verilmiştir.
    - Proje yönetim araçlarının daha efektif kullanılması ve iletişim problemi üzerine yoğunlaşılmasına karar verilmiştir.
    - Bir fikir üzerine aksiyon alma ve karar verme süresi azaltılmalıdır.
-   
+ 
+- **Sprint Review**: Oyunun konusu, oyun türü, platform seçimi, hedef kitle, gelir modeli gibi önemli başlıklar tamamlanmıştır. Oyunumuzun temel mekaniklerinin üstünde geliştirmeler yapılarak karakterin kontrolünün daha eğlenceli hale getirilmesine karar verilmiştir. Fikrin geç olmasından ve bazı tasarım araçlarının öğrenilmesi için harcanan süreden dolayı UI tasarımı, çevre tasarımı ve karakter tasarımı bölümleri 2. sprinte aktarılmıştır.
    
  
 
