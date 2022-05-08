@@ -37,5 +37,10 @@ Village Bomb
 
 # Sprint 1
 - **Daily Scrum**: [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8647829/Daily_Scrumlar.docx)
+- **Sprint Retrospective**
+- Takım içi planlama değişikleri kararı alınmıştır.
+- Oyun tasarımı için ayrılan saatin arttırılmasına karar verilmiştir.
+- Proje yönetim araçlarının daha efektif kullanılması ve iletişim problemi üzerine yoğunlaşılmasına karar verilmiştir.
+- Bir fikir üzerine aksiyon alma ve karar verme süresi azaltılmalıdır.
 
 
