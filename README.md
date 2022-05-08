@@ -37,7 +37,7 @@ Village Bomb
 
 # Sprint 1
 - **Daily Scrum**: 
-- [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8647829/Daily_Scrumlar.docx)
+  [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8647829/Daily_Scrumlar.docx)
 
 - **Sprint Retrospective:**
    - Takım içi planlama değişikleri kararı alınmıştır.
