@@ -39,7 +39,12 @@ Village Bomb
 - **Daily Scrum**: 
   [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8647829/Daily_Scrumlar.docx)
   
-- **Sprint Review**: Oyunun konusu, oyun türü, platform seçimi, hedef kitle, gelir modeli gibi önemli başlıklar tamamlanmıştır. Oyunumuzun temel mekaniklerinin üstünde geliştirmeler yapılarak karakterin kontrolünün daha eğlenceli hale getirilmesine karar verilmiştir. Fikrin geç olmasından ve bazı tasarım araçlarının öğrenilmesi için harcanan süreden dolayı UI tasarımı, çevre tasarımı ve karakter tasarımı bölümleri 2. sprinte aktarılmıştır.  
+- **Sprint Review**: Oyunun konusu, oyun türü, platform seçimi, hedef kitle, gelir modeli gibi önemli başlıklar tamamlanmıştır. Oyunumuzun temel mekaniklerinin üstünde geliştirmeler yapılarak karakterin kontrolünün daha eğlenceli hale getirilmesine karar verilmiştir. Fikrin geç olmasından ve bazı tasarım araçlarının öğrenilmesi için harcanan süreden dolayı UI tasarımı, çevre tasarımı ve karakter tasarımı bölümleri 2. sprinte aktarılmıştır.  Sprint Review Katılımcıları:
+Orkun Alp Coşkun,
+Cansu Altuner,
+Zuhal Çantalı,
+Hasan Paşalı,
+Deren Tavşancı
 
 - **Sprint Retrospective:**
    - Takım içi planlama değişikleri kararı alınmıştır.
