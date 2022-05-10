@@ -33,6 +33,8 @@ Village Bomb
 
 ## Product Backlog URL
 [Backlog tablosu](https://miro.com/app/board/uXjVO2lM8hs=/?share_link_id=531225080181)
+- **Sprint içinde tamamlanması tahmin edilen puan:** 110
+- **Puan tanımlama mantığı:** Sprint puanlandırma sistemimiz Fibonacci serisine (0,1,1,2,3,5,8,13,21,34,55,89...) dayanmaktadır. İlk olarak seriden bir değer seçilerek ortalama efor gerektiren bir işe atama yapılmıştır. (Oyun türü: 13 puan) Daha sonra bu iş referans alınarak diğer işlere gereken efor tahminine göre puan atamaları yapılmıştır. 
 
 
 # Sprint 1
