@@ -14,7 +14,7 @@ Takım 149
 - Deren Tavşancı: Developer
 
 ## Ürün İsmi
-Village Bomb
+Village Bomber
 
 ## Ürün Açıklaması
 - Oyunda amacımız köyleri bombalamak. Ateşlediğimiz topu düz bir hatta ilerletirken karşımıza çıkan engelleri yok ederek topu mümkün olduğunca büyütecek ve olabildiğince yüksek skor yapmaya çalışacağız. Seviyeler halinde oynanan oyunda gittikçe artan zorluk seviyesiyle başa çıkmaya çalışacak, bu konuda bize yardımcı olacak güçlendirmeler ile gücümüzü yükselteceğiz
