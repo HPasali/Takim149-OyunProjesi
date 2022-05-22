@@ -62,9 +62,8 @@ Deren Tavşancı
 
    ![2022-05-09_20-53-43](https://user-images.githubusercontent.com/89143761/167476853-a9734bd9-150d-4eff-b6cf-8abd5183c3a7.png)
 
-  ![2022-05-09_20-48-20](https://user-images.githubusercontent.com/89143761/167476869-b7ef4cb0-83ba-4982-95cd-5ad35baf3ada.png)
+  ![2022-05-09_20-48-20](https://user-images.githubusercontent.com/89143761/167476869-b7ef4cb0-83ba-4982-95cd-5ad35baf3ada.png)  
   
-  ![2022-05-22](https://user-images.githubusercontent.com/43794494/169697044-79794505-1772-442c-8422-c7d461d340a3.jpeg)
 
 # Sprint 2
 - **Daily Scrum**: [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8749487/Daily.Scrum.2.docx)
@@ -84,4 +83,8 @@ Deren Tavşancı
   - Temiz kod amacıyla kodun üzerinden geçme kararı alınmıştır.
   - Takım içi iletişimin daha efektif olarak gerçekleştirilmesine ve son sprintte daha çok efor sarf edilmesine karar verilmiştir.
   - Proje yönetim araçlarına bir fazlası(drive) eklenilmesine karar verilmiştir.
-  
+ 
+## - Ekran Görüntüleri:
+
+    ![2022-05-22](https://user-images.githubusercontent.com/43794494/169697044-79794505-1772-442c-8422-c7d461d340a3.jpeg)
+
