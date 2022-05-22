@@ -77,7 +77,7 @@ Deren Tavşancı
 
 
 - **Sprint Retrospective:** 
-- Temiz kod amacıyla kodun üzerinden geçme kararı alınmıştır.
-- Takım içi iletişimin daha efektif olarak gerçekleştirilmesine ve son sprintte daha çok efor sarf edilmesine karar verilmiştir.
-- Proje yönetim araçlarına bir fazlası(drive) eklenilmesine karar verilmiştir.
+  - Temiz kod amacıyla kodun üzerinden geçme kararı alınmıştır.
+  - Takım içi iletişimin daha efektif olarak gerçekleştirilmesine ve son sprintte daha çok efor sarf edilmesine karar verilmiştir.
+  - Proje yönetim araçlarına bir fazlası(drive) eklenilmesine karar verilmiştir.
   
