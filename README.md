@@ -55,7 +55,7 @@ Deren Tavşancı
    - Proje yönetim araçlarının daha efektif kullanılması ve iletişim problemi üzerine yoğunlaşılmasına karar verilmiştir.
    - Bir fikir üzerine aksiyon alma ve karar verme süresi azaltılmalıdır.
 
-## - ** Oyun İci ScreenShots:**
+## - Ekran Görüntüleri:
  
 
    ![2022-05-09_20-56-44](https://user-images.githubusercontent.com/89143761/167476821-187f128c-7a72-4c94-a1a0-5e1f78b9918b.png)
@@ -63,8 +63,12 @@ Deren Tavşancı
    ![2022-05-09_20-53-43](https://user-images.githubusercontent.com/89143761/167476853-a9734bd9-150d-4eff-b6cf-8abd5183c3a7.png)
 
   ![2022-05-09_20-48-20](https://user-images.githubusercontent.com/89143761/167476869-b7ef4cb0-83ba-4982-95cd-5ad35baf3ada.png)
+  
+  ![2022-05-22](https://user-images.githubusercontent.com/43794494/169697044-79794505-1772-442c-8422-c7d461d340a3.jpeg)
+
 # Sprint 2
-- **Daily Scrum**: 
+- **Daily Scrum**: [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8749487/Daily.Scrum.2.docx)
+
 
  **Sprint içinde tamamlanması tahmin edilen puan:** 110
 - **Sprint Review**: Oyunda oynatılacak karakterin (bomba) tasarımı yapılmıştır. Oyunda çevre tasarım olarak su efekti ve evler eklenmiştir.   Aynı zamanda UI tasarımı da bu sprintte ele alınmıştır. Oynanış ekranı ve oyun menüsü eklenmiştir. Seviye tasarımı, animasyon efektleri, seslerin eklenmesi gibi başlıklar 3. sprinte aktarılmıştır. Aynı zamanda Game Analtytics ve API başlıklarının da eklenilmesi düşünülmektedir.
