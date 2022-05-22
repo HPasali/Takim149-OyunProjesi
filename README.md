@@ -67,7 +67,7 @@ Deren Tavşancı
 - **Daily Scrum**: 
 
  **Sprint içinde tamamlanması tahmin edilen puan:** 110
-- **Sprint Review**: 
+- **Sprint Review**: Oyunda oynatılacak karakterin (bomba) tasarımı yapılmıştır. Oyunda çevre tasarım olarak su efekti ve evler eklenmiştir.   Aynı zamanda UI tasarımı da bu sprintte ele alınmıştır. Oynanış ekranı ve oyun menüsü eklenmiştir. Seviye tasarımı, animasyon efektleri, seslerin eklenmesi gibi başlıklar 3. sprinte aktarılmıştır. Aynı zamanda Game Analtytics ve API başlıklarının da eklenilmesi düşünülmektedir.
 -   Sprint Review Katılımcıları:
 Orkun Alp Coşkun,
 Cansu Altuner,
@@ -76,5 +76,8 @@ Hasan Paşalı,
 Deren Tavşancı
 
 
-- **Sprint Retrospective:**
+- **Sprint Retrospective:** 
+- Temiz kod amacıyla kodun üzerinden geçme kararı alınmıştır.
+- Takım içi iletişimin daha efektif olarak gerçekleştirilmesine ve son sprintte daha çok efor sarf edilmesine karar verilmiştir.
+- Proje yönetim araçlarına bir fazlası(drive) eklenilmesine karar verilmiştir.
   
