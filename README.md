@@ -63,4 +63,18 @@ Deren Tavşancı
    ![2022-05-09_20-53-43](https://user-images.githubusercontent.com/89143761/167476853-a9734bd9-150d-4eff-b6cf-8abd5183c3a7.png)
 
   ![2022-05-09_20-48-20](https://user-images.githubusercontent.com/89143761/167476869-b7ef4cb0-83ba-4982-95cd-5ad35baf3ada.png)
+# Sprint 2
+- **Daily Scrum**: 
 
+ **Sprint içinde tamamlanması tahmin edilen puan:** 110
+- **Sprint Review**: 
+-   Sprint Review Katılımcıları:
+Orkun Alp Coşkun,
+Cansu Altuner,
+Zuhal Çantalı,
+Hasan Paşalı,
+Deren Tavşancı
+
+
+- **Sprint Retrospective:**
+  
