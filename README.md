@@ -87,6 +87,15 @@ Deren Tavşancı
 ##  Ekran Görüntüleri:
 
 ![2022-05-22](https://user-images.githubusercontent.com/43794494/169706281-cd1710d7-a464-4c71-b886-e0cbbe2ac0c0.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 41 PM](https://user-images.githubusercontent.com/43794494/169904859-b7d0f03d-ac93-4f54-ad47-4a8e813e43fb.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 42 PM](https://user-images.githubusercontent.com/43794494/169904872-e76f13f5-0db4-4a69-a637-2940761e5620.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 42 PM (1)](https://user-images.githubusercontent.com/43794494/169904884-d2bce0d3-7acd-4d00-81c4-5382d198a03b.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 43 PM (1)](https://user-images.githubusercontent.com/43794494/169904897-9e52d235-912a-4d73-9612-dc798d34da2c.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 43 PM](https://user-images.githubusercontent.com/43794494/169904904-44954065-4171-409c-881a-752d7231d4ba.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 44 PM (1)](https://user-images.githubusercontent.com/43794494/169904916-d8298e3d-5c66-4894-9344-49f165a68179.jpeg)
+![WhatsApp Image 2022-05-23 at 11 52 44 PM](https://user-images.githubusercontent.com/43794494/169904923-b3de45c7-f235-4626-be79-85f53a62d9da.jpeg)
 
-    
+
+
+
 
