@@ -2,15 +2,18 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class UIScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    
     public GameObject Object;
-    public GameObject musicImage;
-    public GameObject soundImage;
+    public GameObject MusicToggleButton;
+    public GameObject SoundToggleButton;
     private BombController bombController;
-    [SerializeField] GameObject GameUI, Home, SettingsUI, PauseMenu;
+    [SerializeField] GameObject Home, SettingsUI;
+    public AudioSource audioSource1, audioSource2, audioSource3;
+
 
 
     void Start()
@@ -26,52 +29,38 @@ public class UIScript : MonoBehaviour
        
     }
 
-    public void StartButton()
-    {
-        Home.SetActive(false);
-        GameUI.SetActive(true);
-        bombController.straightSpeed = 6.0f;
-        bombController.horizontalSpeed = 3.0f;
-    }
-
     public void SettingsButton()
     {
         Home.SetActive(false);
         SettingsUI.SetActive(true);
     }
 
-    public void SoundButton(bool muted)
+    public void SoundToggle()
     {
-        if(muted){
-            soundImage.SetActive(false);
+        if (SoundToggleButton.GetComponent<Toggle>().isOn == true)
+        {
+            audioSource1.GetComponent<AudioSource>().mute = true;
+            audioSource2.GetComponent<AudioSource>().mute = true;
         }
         else
         {
-            soundImage.SetActive(true);
+            audioSource1.GetComponent<AudioSource>().mute = false;
+            audioSource2.GetComponent<AudioSource>().mute = false;
         }
     }
 
-    public void PauseButton()
+    public void MusicToggle()
     {
-        GameUI.SetActive(false);
-        bombController.straightSpeed = 0.0f;
-        bombController.horizontalSpeed = 0.0f;
-        PauseMenu.SetActive(true);
-    }
-
-    public void ContinueButton()
-    {
-        PauseMenu.SetActive(false);
-        bombController.straightSpeed = 6.0f;
-        bombController.horizontalSpeed = 3.0f;
-        GameUI.SetActive(true);
-    }
-
-    public void RestartButton()
-    {
-        PauseMenu.SetActive(false);
-        SceneManager.LoadScene("SampleScene");
-        
+        if (MusicToggleButton.GetComponent<Toggle>().isOn == true)
+        {
+            //audioSource3.enabled = false;
+            audioSource3.GetComponent<AudioSource>().mute = true;
+        }
+        else
+        {
+            //audioSource3.enabled = true;
+            audioSource3.GetComponent<AudioSource>().mute = false;
+        }
     }
 
     public void CloseButton()

@@ -8,6 +8,8 @@ public class BombShooter : MonoBehaviour
     
     public GameObject bomb;
     public RectTransform crosshair;
+    public AudioSource audioSource;
+
 
     Vector3 mousePosition;
 
@@ -15,10 +17,9 @@ public class BombShooter : MonoBehaviour
     void Start()
     {
         //DOTween.Init();
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
     void Update()
     {
         if(bomb.transform.position.z >= 19.0f)
@@ -43,11 +44,10 @@ public class BombShooter : MonoBehaviour
             bomb.transform.GetComponent<Rigidbody>().AddForce(Camera.main.ScreenPointToRay(crosshair.position).direction * 2500);
             crosshair.DOScale(new Vector3(0, 0, 0), 0.25f);
             bomb.GetComponent<Rigidbody>().useGravity = true;
+            audioSource.Play();
+              
         }
-
         }
-
-        
     }
 }
 

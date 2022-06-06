@@ -20,7 +20,7 @@ public class BombScaling : MonoBehaviour
     private void OnTriggerEnter(Collider other) {
         if(other.transform.tag.Equals("ScaleUpBoard")){
             // gameObject.transform.localScale += new Vector3(0.2f, 0.2f, 0.2f);
-            transform.DOScale(new Vector3(gameObject.transform.localScale.x + 0.1f, gameObject.transform.localScale.y + 0.1f, gameObject.transform.localScale.z + 0.1f), duration: 0);
+            transform.DOScale(new Vector3(gameObject.transform.localScale.x + 0.2f, gameObject.transform.localScale.y + 0.2f, gameObject.transform.localScale.z + 0.2f), duration: 0);
             
            
             
