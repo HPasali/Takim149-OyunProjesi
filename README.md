@@ -99,7 +99,7 @@ Deren Tavşancı
 # Sprint 3
 - **Daily Scrum**: 
 
-**Sprint Review**: 
+**Sprint Review**: Oyuna eklenicek çeşitli çevre tasarımları yapılmıştır. Oyun mekanik kodlarının yazımı tamamlanmıştır. Seviye tasarımı yapılmışrıt.Bomba fırlatılmasının animasyon efektleri eklenmiştir.Oyun içi sesler ve müzikler eklenmiştir. Oyun tanıtımı yapılan video hazırlanmış oyun teslime hazır hale getirilmiştir.
 - Sprint Review Katılımcıları:
 Orkun Alp Coşkun,
 Cansu Altuner,
@@ -107,7 +107,9 @@ Zuhal Çantalı,
 Hasan Paşalı,
 Deren Tavşancı
 
-**Sprint Retrospective:**
+**Sprint Retrospective:** 
+-Zaman yönetimi iyi kullanılmıştır.
+-Tanıtım videosunun editlenilmesine ve oyun tanıtımının detaylandırılmasına karar verilmiştir.
 
  **Sprint içinde tamamlanması tahmin edilen puan:** 165
 - **Puan tanımlama mantığı:** Sprint puanlandırma sistemimiz Fibonacci serisine (0,1,1,2,3,5,8,13,21,34,55,89...) dayanmaktadır. İlk olarak seriden bir değer seçilerek ortalama efor gerektiren bir işe atama yapılmıştır. (Oyun türü: 13 puan) Daha sonra bu iş referans alınarak diğer işlere gereken efor tahminine göre puan atamaları yapılmıştır. 
