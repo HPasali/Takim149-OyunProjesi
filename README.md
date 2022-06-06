@@ -109,6 +109,7 @@ Deren Tavşancı
 
 **Sprint Retrospective:** 
 -Zaman yönetimi iyi kullanılmıştır.
+
 -Tanıtım videosunun editlenilmesine ve oyun tanıtımının detaylandırılmasına karar verilmiştir.
 
  **Sprint içinde tamamlanması tahmin edilen puan:** 165
