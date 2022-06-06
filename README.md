@@ -96,6 +96,20 @@ Deren Tavşancı
 ![WhatsApp Image 2022-05-23 at 11 52 44 PM](https://user-images.githubusercontent.com/43794494/169904923-b3de45c7-f235-4626-be79-85f53a62d9da.jpeg)
 
 
+# Sprint 3
+- **Daily Scrum**: 
 
+**Sprint Review**: 
+- Sprint Review Katılımcıları:
+Orkun Alp Coşkun,
+Cansu Altuner,
+Zuhal Çantalı,
+Hasan Paşalı,
+Deren Tavşancı
 
+**Sprint Retrospective:**
+
+ **Sprint içinde tamamlanması tahmin edilen puan:** 160
+- **Puan tanımlama mantığı:** Sprint puanlandırma sistemimiz Fibonacci serisine (0,1,1,2,3,5,8,13,21,34,55,89...) dayanmaktadır. İlk olarak seriden bir değer seçilerek ortalama efor gerektiren bir işe atama yapılmıştır. (Oyun türü: 13 puan) Daha sonra bu iş referans alınarak diğer işlere gereken efor tahminine göre puan atamaları yapılmıştır. 
+- **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
 
