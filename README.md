@@ -97,7 +97,8 @@ Deren Tavşancı
 
 
 # Sprint 3
-- **Daily Scrum**: 
+- **Daily Scrum**: [Ekran görüntüleri](https://github.com/HPasali/Takim149-OyunProjesi/files/8844930/Daily.scrum.3.docx)
+
 
 **Sprint Review**: Oyuna eklenicek çeşitli çevre tasarımları yapılmıştır. Oyun mekanik kodlarının yazımı tamamlanmıştır. Seviye tasarımı yapılmışrıt.Bomba fırlatılmasının animasyon efektleri eklenmiştir.Oyun içi sesler ve müzikler eklenmiştir. Oyun tanıtımı yapılan video hazırlanmış oyun teslime hazır hale getirilmiştir.
 - Sprint Review Katılımcıları:
@@ -115,4 +116,8 @@ Deren Tavşancı
  **Sprint içinde tamamlanması tahmin edilen puan:** 165
 - **Puan tanımlama mantığı:** Sprint puanlandırma sistemimiz Fibonacci serisine (0,1,1,2,3,5,8,13,21,34,55,89...) dayanmaktadır. İlk olarak seriden bir değer seçilerek ortalama efor gerektiren bir işe atama yapılmıştır. (Oyun türü: 13 puan) Daha sonra bu iş referans alınarak diğer işlere gereken efor tahminine göre puan atamaları yapılmıştır. 
 - **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler yapılacak işlere (task'lere) bölünmüştür.
+
+##  Ekran Görüntüleri:
+![WhatsApp Image 2022-06-06 at 11 13 15 AM](https://user-images.githubusercontent.com/43794494/172174689-6cea3fa8-5ff7-497a-ac5a-2d961cee8855.jpeg)
+![WhatsApp Image 2022-06-06 at 11 13 34 AM](https://user-images.githubusercontent.com/43794494/172174699-7d07c82d-3840-4d58-baad-d16da4f35444.jpeg)
 
