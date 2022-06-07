@@ -127,3 +127,12 @@ Deren Tavşancı
 ![WhatsApp Image 2022-06-06 at 4 56 17 PM (1)](https://user-images.githubusercontent.com/43794494/172175374-368a01c8-1141-4894-8e9b-a845ff4ae515.jpeg)
 ![WhatsApp Image 2022-06-06 at 4 56 18 PM](https://user-images.githubusercontent.com/43794494/172175395-060108c9-9d96-4282-a620-20a041aea4e0.jpeg)
 ![WhatsApp Image 2022-06-06 at 4 56 18 PM (1)](https://user-images.githubusercontent.com/43794494/172175406-9c432d9b-98a5-4489-83b2-c9f9da37a032.jpeg)
+
+## Kullanılan assetler
+
+https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353#description
+https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449#description
+https://opengameart.org/content/bowling-ball-rolling
+https://freesound.org/people/EFlexMusic/sounds/388527/#
+https://opengameart.org/content/cannon-fire
+https://opengameart.org/content/menu-doodle-2
